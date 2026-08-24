@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="page-content container">
+    <article class="page-card contact-page-card">
+        <h1>Contact Banta Bazar</h1>
+        <p class="page-summary">Need help with an order, a product, or a general question? Our team is ready to assist with clear, direct support.</p>
+        {% if dynamic_content %}
+            <div class="page-copy">{{ dynamic_content | replace('\n', '<br>') | safe }}</div>
+        {% endif %}
+
+        <h2>How to reach us</h2>
+        <p>We are happy to help with product questions, order support, or store inquiries.</p>
+        <ul class="contact-info">
+            <li><strong>Phone:</strong> +92 32 00 33 77 20</li>
+            <li><strong>Email:</strong> info@bantabazar.com</li>
+            <li><strong>Address:</strong> Lahore, Pakistan</li>
+        </ul>
+
+        <h2>Frequently asked questions</h2>
+        <div class="faq-list">
+            <h3>How quickly will I get a response?</h3>
+            <p>We aim to respond as quickly as possible with practical answers for your request.</p>
+        </div>
+    </article>
+</section>
+{% endblock %}
