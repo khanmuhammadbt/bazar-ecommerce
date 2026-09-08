@@ -80,4 +80,3 @@ Banta (Khan Muhammad) — Banta Tech ka founder, developer aur content creator.
 ## License
 
 Abhi is project ka license specify nahi kiya gaya hai.
-```
