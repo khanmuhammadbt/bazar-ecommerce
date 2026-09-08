@@ -65,6 +65,18 @@ pip install -r requirements.txt
 python run.py
 ```
 
+## Default Login (Demo/Testing)
+
+> Note: Yeh sirf demo purpose ke liye hain. Production mein deploy karne se pehle inko zaroor change kar dena.
+
+**Admin Panel:**
+- Username: `admin`
+- Password: `admin123`
+
+**Test User:**
+- Username: `testuser`
+- Password: `test1234`
+
 ## Environment Variables
 
 Project chalane se pehle `.env` file mein zaroori keys set karo (jaise database URL, secret key, payment gateway keys waghera). Yeh file kabhi bhi public repo mein commit mat karo, isme sensitive data hota hai.
