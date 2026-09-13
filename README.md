@@ -1,8 +1,8 @@
 
 ```markdown
-# Banta Bazar
+# bazar ecommerce
 
-Banta Bazar aik full featured e-commerce website hai jo Flask, Jinja2 aur SQLite se banaya gaya hai. Yeh pehle "Electro Shop" ke naam se jana jata tha.
+bazar ecommerce aik full featured e-commerce website hai jo Flask, Jinja2 aur SQLite se banaya gaya hai. Yeh pehle "Electro Shop" ke naam se jana jata tha.
 
 ## Features
 
@@ -27,7 +27,7 @@ Banta Bazar aik full featured e-commerce website hai jo Flask, Jinja2 aur SQLite
 
 ```
 
-bazar-ecommerce/
+bazar ecommerce/
 │
 ├── app/              # Main application code
 ├── scripts/          # Helper scripts
@@ -44,8 +44,8 @@ bazar-ecommerce/
 
 1. Repo clone karo:
 ```bash
-git clone https://github.com/khanmuhammadbt/bazar-ecommerce.git
-cd bazar-ecommerce
+git clone https://github.com/khanmuhammadbt/bazar ecommerce.git
+cd bazar ecommerce
 ```
 
 2. Virtual environment banao aur activate karo:
