@@ -2,8 +2,6 @@
 ```markdown
 # bazar ecommerce
 
-A full-stack Flask e-commerce platform for electronics shopping, product management, cart, checkout, analytics, and admin operations.
-
 bazar ecommerce aik full featured e-commerce website hai jo Flask, Jinja2 aur SQLite se banaya gaya hai. Yeh pehle "Electro Shop" ke naam se jana jata tha.
 
 ## Features
